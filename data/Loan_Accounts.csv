@@ -1,0 +1,8 @@
+AccNo,Cust_Name,Loan_Amount,Instalments,Int_Rate,Start_Date,Interest
+1,R.K.Gupta,30000,36,12.00,2009-07-19, 
+2,S.P.Sharma,50000,48,10.00,2008-03-22, 
+3,K.P.Jain,30000,36,NULL,2007-03-08, 
+4,M.P.Yadav,80000,60,10.00,2008-12-06, 
+5,S.P.Sinha,20000,36,12.50,2010-01-03, 
+6,P.Sharma,70000,60,12.50,2008-06-05, 
+7,K.S.Dhall,50000,48,NULL,2008-03-05, 
